@@ -46,7 +46,7 @@
     <section>
         <div class="fs-4">
             <div class="cardd text-white">
-                <div class="p-5 text-center">
+                <div class="p-4 text-center">
                     <h3 class="fs-1 mb-5">Welcome!</h3>
                     <form action="index.php" class="text-white" method="post">
                         <div class="row justify-content-center align-items-center h-100">
